@@ -1,4 +1,7 @@
 # Palindrome || TwoSum PRoblem || Find Median Sorted Arrays problem || Sum of Linkedlists
+
+
+
 Given an integer x, return true if x is a palindrome , and false otherwise.
 ==========
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
